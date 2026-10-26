@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(49, 48, 48);
+    margin-top:7%;
+    
+}
+div{
+    text-align: center;
+    color: rgb(210, 137, 2);
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#myClock {
+    margin-right: 10px; /* Saat ve gün arasına boşluk */
+}
