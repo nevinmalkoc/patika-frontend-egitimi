@@ -1,0 +1,20 @@
+Insertion Sort Adımları:
+Dizi: [22, 27, 16, 2, 18, 6]
+
+[22, 27, 16, 2, 18, 6] - İlk eleman zaten sıralı kabul edilir.
+[22, 27, 16, 2, 18, 6] - 27, 22’den büyük olduğu için olduğu yerde kalır.
+[16, 22, 27, 2, 18, 6] - 16, 22 ve 27’den küçük olduğu için en başa yerleştirilir.
+[2, 16, 22, 27, 18, 6] - 2, en küçük eleman olduğundan en başa yerleştirilir.
+[2, 16, 18, 22, 27, 6] - 18, 22 ve 27’den küçük olduğu için aralarına yerleştirilir.
+[2, 6, 16, 18, 22, 27] - 6, en küçük ikinci eleman olduğu için ikinci sıraya yerleştirilir.
+Big-O Gösterimi: Insertion Sort için Big-O O(n²)’dir.
+
+Time Complexity: Sıralandıktan sonra 18 ortada yer aldığı için bu Average Case kapsamına girer.
+
+Selection Sort Adımları:
+Dizi: [7, 3, 5, 8, 2, 9, 4, 15, 6]
+
+[2, 3, 5, 8, 7, 9, 4, 15, 6] - İlk eleman 7 ile dizideki en küçük eleman 2 yer değiştirir.
+[2, 3, 5, 8, 7, 9, 4, 15, 6] - İkinci eleman 3 zaten doğru pozisyonda.
+[2, 3, 4, 8, 7, 9, 5, 15, 6] - Üçüncü eleman 5 ile en küçük eleman 4 yer değiştirir.
+[2, 3, 4, 5, 7, 9, 8, 15, 6] - Dördüncü eleman 8 ile en küçük eleman 5 yer değiştirir.

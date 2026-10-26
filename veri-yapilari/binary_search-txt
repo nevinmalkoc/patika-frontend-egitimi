@@ -1,0 +1,58 @@
+Dizi: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+Ağaç Oluşturma Aşamaları:
+Root:
+
+İlk eleman olan 7 dizinin root (kök) düğümüdür.
+Root: 7
+İkinci Eleman:
+
+5, 7'den küçük olduğu için 7'nin soluna yerleştirilir.
+Root'un Solu: 5
+Üçüncü Eleman:
+
+1, 7'den ve 5'ten küçük olduğu için 5'in soluna yerleştirilir.
+Root'un Solunda: 1
+Dördüncü Eleman:
+
+8, 7'den büyük olduğu için 7'nin sağına yerleştirilir.
+Root'un Sağı: 8
+Beşinci Eleman:
+
+3, 7'den küçük ama 5'ten büyük olduğu için 5'in sağına yerleştirilir.
+5'in Sağında: 3
+Altıncı Eleman:
+
+6, 7'den küçük ve 5'ten büyük olduğu için 3'ün sağına yerleştirilir.
+3'ün Sağında: 6
+Yedinci Eleman:
+
+0, 7, 5, ve 1'den küçük olduğu için 1'in soluna yerleştirilir.
+1'in Solunda: 0
+Sekizinci Eleman:
+
+9, 7'den büyük ve 8'den de büyük olduğu için 8'in sağına yerleştirilir.
+8'in Sağında: 9
+Dokuzuncu Eleman:
+
+4, 7'den küçük, 5'ten küçük ama 3'ten büyük olduğu için 3'ün sağına yerleştirilir.
+3'ün Sağında: 4
+Onuncu Eleman:
+
+2, 7'den, 5'ten küçük ve 3'ten de küçük olduğu için 1'in sağına yerleştirilir.
+1'in Sağında: 2
+BST Yapısı
+Ağaç şu şekilde görünür:
+
+
+      7
+     / \
+    5   8
+   / \   \
+  1   6   9
+ / \ 
+0   2
+     \
+      3
+       \
+        4
+        
