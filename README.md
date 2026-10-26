@@ -1,35 +1,18 @@
-# Patika Frontend Eğitimi 🎓
+# Patika Frontend Eğitimi
 
-Bu repo, **Patika.dev** ve **Kodluyoruz** frontend eğitimi kapsamında tamamladığım ödevleri içermektedir.  
-Daha önce ayrı ayrı açılmış olan repolar, Ekim 2026 itibarıyla bu tek repoda birleştirilmiştir.
+Patika.dev üzerinden aldığım frontend eğitimindeki ödevleri içeriyor. HTML'den başlayıp Bootstrap ve JavaScript'e kadar sırayla ilerlediğim bu süreçte her ödev için ayrı repo açmıştım, sonradan hepsini burada topladım.
 
----
+## Klasörler
 
-## 📁 İçerik & Proje Tarihleri
-
-| Klasör | Konu | Başlangıç Tarihi |
-|--------|------|-----------------|
-| `kodluyoruz/` | Kodluyoruz — İlk Repo | Ağustos 2024 |
-| `html/odev-1/` | HTML Ödev 1 | Eylül 2024 |
-| `html/odev-3/` | HTML Ödev 3 | Eylül 2024 |
-| `bootstrap/odev-1/` | Bootstrap Ödev 1 | Eylül 2024 |
-| `bootstrap/odev-2/` | Bootstrap Ödev 2 | Eylül 2024 |
-| `bootstrap/odev-3/` | Bootstrap Ödev 3 (LinkedIn Clone) | Ekim 2024 |
-| `veri-yapilari/` | Veri Yapıları | Ekim 2024 |
-| `javascript/odev-1/` | JavaScript Ödev 1 | Aralık 2024 |
-| `javascript/odev-2/` | JavaScript Ödev 2 | Ocak 2025 |
-| `javascript/odev-3/` | JavaScript Ödev 3 | Ocak 2025 |
-
----
-
-## 🛠️ Teknolojiler
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-> 📌 Bu repodaki her klasör, eğitim sürecinde ayrı repo olarak açılmış ödevlerin birleştirilmiş halidir.  
-> Orijinal commit geçmişleri korunmuştur.
+| Klasör | Ne var | Tarih |
+|--------|--------|-------|
+| `kodluyoruz/` | Kodluyoruz eğitimindeki ilk repom | Ağu 2024 |
+| `html/odev-1/` | İlk HTML ödevi | Eyl 2024 |
+| `html/odev-3/` | HTML ödev 3 | Eyl 2024 |
+| `bootstrap/odev-1/` | Bootstrap'e giriş | Eyl 2024 |
+| `bootstrap/odev-2/` | Bootstrap ödev 2 | Eyl 2024 |
+| `bootstrap/odev-3/` | Bootstrap ile LinkedIn clone | Eki 2024 |
+| `veri-yapilari/` | Veri yapıları çalışmaları | Eki 2024 |
+| `javascript/odev-1/` | JavaScript'e giriş | Ara 2024 |
+| `javascript/odev-2/` | JavaScript ödev 2 | Oca 2025 |
+| `javascript/odev-3/` | JavaScript ödev 3 | Oca 2025 |
