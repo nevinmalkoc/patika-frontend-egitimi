@@ -1,0 +1,56 @@
+body{
+    background-color: #E9ECEF;
+}
+h1{
+    color: rgb(177, 36, 36) ;
+    text-align: center;
+    
+}
+.purple-heading{
+    color: purple;
+    text-align: center;
+}
+h2{
+    color: rgb(193, 128, 7);
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color: rgb(55, 55, 244);
+    color: white;    
+    text-align: center;
+    display: flex;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer; /*bu özellik mause işaretini belirler*/
+    margin:  0 auto;        
+}
+
+.centered-list{
+    display: flex; /* Flexbox kullan */
+    flex-direction: column; /* Dikey sıralama */
+    align-items: center; /* Ortaya hizala */
+    list-style-position: inside; /* Liste işaretlerini içte tut */
+    padding: 0; /* Varsayılan iç boşluğu kaldır */
+    margin: 0 auto; /* Dış boşlukları sıfırla */
+}
+
+
+
+.main-row{
+    background-color: grey;
+    padding: 20px;
+    
+
+}
+.row{
+    background-color: #E9ECEF;
+    margin: 3%;
+}
+.main-row-p{
+    color: rgb(177, 36, 36);
+}
+.main-row-a{
+    color: aliceblue;
+    display: flexbox;
+}
